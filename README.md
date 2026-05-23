@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Maaz+Kamal+%F0%9F%91%8B;SOC+Analyst+%7C+AI+Automation+Engineer;Cybersecurity+%2B+Artificial+Intelligence;Building+Defenses+That+Think+For+Themselves.;Automating+Threats+Away+%E2%9A%A1)](https://github.com/MaazKamal08)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Maaz+Kamal+%F0%9F%91%8B;SOC+Analyst+%7C+AI+Automation+Engineer;Cybersecurity+%2B+Artificial+Intelligence; Building+Defenses+That+Think+For+Themselves.;Automating+Threats+Away+%E2%9A%A1)](https://github.com/MaazKamal08)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M.%20Maaz%20Kamal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SOC%20Analyst%20%7C%20AI%20Automation%20Engineer%20%7C%20Security%20Architect&descAlignY=55&descSize=16" width="100%"/>
 
