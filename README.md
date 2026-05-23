@@ -38,7 +38,7 @@ class MaazKamal:
                              "Zecurion DLP", "IBM QRadar", "VirusTotal API", "Kali Linux"],
     }
     
-    building    = ["SmartPhish (AI Phishing Detection)",
+    building    = ["SmartPhish (AI Phishing And Awareness Simulation Tool With LMS FOR EMPLOYEE)",
                    "FirewallAI (Intelligent Firewall Automation)",
                    "AI Chatbot Ecosystem",
                    "Auto-Block Pipelines: Wazuh → Sophos/pfSense"]
@@ -133,8 +133,8 @@ class MaazKamal:
 
 | Project | Stack | Description |
 |---|---|---|
-| **🔒 SmartPhish** *(Private)* | Python, LLMs, Email APIs | AI-powered phishing detection engine — analyzes email headers, content & URLs using ML models to classify and auto-quarantine threats |
-| **🔒 FirewallAI** *(Private)* | Python, pfSense API, LLMs | Intelligent firewall rule generation & management — AI recommends, validates, and auto-applies firewall rules based on threat context |
+| **🔒 SmartPhish** *(Private)* | Go, Python, React, LLMs, Email APIs | AI-powered phishing awareness & simulation platform with LMS — enables employee training, campaign management, phishing simulations, email analysis, reporting, and security awareness tracking |
+| **🔒 FirewallAI** *(Private)* | React, Python, LLMs, Security APIs | AI prompt-injection & threat firewall — detects, analyzes, and blocks malicious prompts, risky inputs, data leakage attempts, and AI-driven threat patterns before they reach critical systems |
 | **🔒 AI Chatbot Ecosystem** *(Private)* | n8n, LangChain, RAG, WhatsApp | Multi-channel AI chatbot suite — RAG-powered bots integrated across WhatsApp, web, and internal tools for enterprise use |
 
 ### 🔄 Security Automation Workflows *(Private — n8n)*
