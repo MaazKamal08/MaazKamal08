@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Maaz+Kamal+%F0%9F%91%8B;SOC+Analyst+%7C+AI+Automation+Engineer;Cybersecurity+%2B+Artificial+Intelligence;Building+Defenses+That+Think+For+Themselves.;Automating+Threats+Away+%E2%9A%A1)](https://github.com/MaazKamal08)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=860&lines=Hey%2C+I'm+Maaz+Kamal+%F0%9F%91%8B;AI+Automation+Engineer+%7C+SOC+Analyst;Building+AI+Agents+That+Automate+Everything;Cybersecurity+Powered+by+Artificial+Intelligence;Where+n8n+Meets+Threat+Intelligence+%E2%9A%A1)](https://github.com/MaazKamal08)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M.%20Maaz%20Kamal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SOC%20Analyst%20%7C%20AI%20Automation%20Engineer%20%7C%20Security%20Architect&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M.%20Maaz%20Kamal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Engineer%20%7C%20SOC%20Analyst%20%7C%20Security%20Architect&descAlignY=55&descSize=16" width="100%"/>
 
 <br/>
 
@@ -22,16 +22,18 @@
 class MaazKamal:
     name        = "Muhammad Maaz Kamal"
     location    = "Karachi, Pakistan 🇵🇰"
-    title       = ["SOC Analyst (Senior)", "AI Automation Engineer", "Security Architect"]
+    title       = ["AI Automation Engineer", "SOC Analyst (Senior)", "Security Architect"]
     
     current     = "Senior Information Security Analyst @ Keenu.pk"
     also        = "Team Lead — AI & Automation @ NJ Marketing Group Inc (Remote, Canada)"
     
+    superpower  = "I build AI agents that automate security — so threats get blocked before humans even notice."
+    
     expertise   = {
+        "ai_automation": ["n8n Workflows", "AI Agents", "LangChain", "RAG Architectures",
+                          "LLM-Powered Bots", "Agentic Systems", "Custom GPTs", "FastAPI"],
         "cybersecurity": ["SOC Operations", "SIEM", "Threat Intelligence", "Incident Response",
                           "PCI DSS", "NIST", "MITRE ATT&CK", "Endpoint Protection", "DLP"],
-        "ai_automation": ["n8n Workflows", "AI Agents", "LangChain", "RAG Architectures",
-                          "LLM-Powered Bots", "Agentic Systems"],
         "security_tooling": ["Wazuh", "pfSense", "Sophos Firewall", "Kaspersky EDR",
                              "Zecurion DLP", "IBM QRadar", "VirusTotal API", "Kali Linux"],
     }
@@ -41,7 +43,7 @@ class MaazKamal:
                    "AI Chatbot Ecosystem",
                    "Auto-Block Pipelines: Wazuh → Sophos/pfSense"]
     
-    philosophy  = "Automate everything that can be automated — then automate the rest."
+    philosophy  = "Don't just monitor threats — automate the entire response pipeline."
     
     def __init__(self):
         self.open_to_work = True
@@ -94,6 +96,9 @@ class MaazKamal:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG_Architecture-6E40C9?style=for-the-badge&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6D70?style=for-the-badge&logoColor=white)
+![Custom GPTs](https://img.shields.io/badge/Custom_GPTs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-00D4FF?style=for-the-badge&logoColor=white)
 
 ### 🌐 APIs & Integrations
 
@@ -101,6 +106,8 @@ class MaazKamal:
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logoColor=white)
 
 ### 💻 Languages & Dev Tools
 
@@ -249,13 +256,33 @@ class MaazKamal:
 ## 🤝 Services I Offer
 
 ```
-🔐  Cybersecurity Consulting      →  SOC setup, SIEM tuning, incident response playbooks
 🤖  AI Automation Engineering     →  n8n workflows, AI agents, LLM-powered pipelines
-🛡️  Security + AI Integration     →  Auto-block pipelines, threat-response automation
-📊  Vulnerability Management      →  CVE triage, compliance audits (PCI DSS / NIST)
 💬  AI Chatbot Development        →  RAG bots, WhatsApp agents, enterprise chatbots
+⚡  Security + AI Integration     →  Auto-block pipelines, threat-response automation
+🔐  Cybersecurity Consulting      →  SOC setup, SIEM tuning, incident response playbooks
+📊  Vulnerability Management      →  CVE triage, compliance audits (PCI DSS / NIST)
 🔍  Penetration Testing Prep      →  Config hardening, policy review, security baselines
 ```
+
+---
+
+## 💭 Philosophy
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   "Most people build security systems that react to threats.         ║
+║    I build AI systems that eliminate the reaction entirely."         ║
+║                                                                      ║
+║   The intersection of AI automation and cybersecurity isn't          ║
+║   a niche — it's the future of how every SOC will operate.          ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -275,7 +302,7 @@ class MaazKamal:
 
 <br/>
 
-> *"I don't just monitor threats — I automate the response to them. And I don't just build AI systems — I build ones that make security operations smarter, simpler, and more resilient."*
+> *"I don't just build AI workflows — I build ones that make security operations autonomous, intelligent, and resilient."*
 
 <br/>
 
