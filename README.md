@@ -58,7 +58,7 @@ class MaazKamal:
 
 | 🔐 Cybersecurity | 🤖 AI & Automation |
 |:---:|:---:|
-| 2+ years hands-on SOC experience | Building intelligent n8n agents |
+| 4+ years hands-on SOC experience | Building intelligent n8n agents |
 | SIEM management (Wazuh, QRadar) | LLM-powered workflows & pipelines |
 | PCI DSS · NIST · MITRE ATT&CK | RAG architectures & chatbot systems |
 | Threat hunting & incident response | Auto-threat-block integrations |
